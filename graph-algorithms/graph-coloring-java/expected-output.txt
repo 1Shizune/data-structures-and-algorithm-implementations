@@ -1,0 +1,17 @@
+*** Below is the hashTable ***
+hashTable[1] ->5->2->4
+hashTable[2] ->7->3->4->1
+hashTable[3] ->7->5->4->2
+hashTable[4] ->7->6->3->2->1
+hashTable[5] ->6->7->3->1
+hashTable[6] ->7->5->4
+hashTable[7] ->6->5->4->3->2
+*** Below is the final result of colorARY[]= *** 
+ID	Color
+1	A
+2	B
+3	A
+4	C
+5	B
+6	A
+7	D
