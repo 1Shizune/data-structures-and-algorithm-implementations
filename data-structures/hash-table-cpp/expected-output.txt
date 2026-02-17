@@ -1,0 +1,1098 @@
+In informationProcessing: Op= + data= 53221 index= 4
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, NULL)
+hashTable[7]:(-9999, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 87012 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 40914 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 66814 index= 7
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 66814 index= 7
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 56193 index= 7
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= * data= 56193 index= 7
+op is an unrecognized operation: *
+In informationProcessing: Op= ? data= 56193 index= 7
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 11994 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 81035 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 38549 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, 38549) ->(38549, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 38549 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, 38549) ->(38549, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 38549 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 38549 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 72943 index= 4
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 11903 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 3892 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 10035 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 99017 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, 99017) ->(99017, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 11903 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, 99017) ->(99017, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 11903 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, 99017) ->(99017, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 99017 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, 99017) ->(99017, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 99017 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 99017 index= 2
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 33197 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 53098 index= 8
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 87012) ->(87012, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 87012 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 11994) ->(11994, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 11994 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 11994 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 53221 index= 4
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 11998 index= 7
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 32279 index= 8
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 39012 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 87012 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 77448 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 81035 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 81035 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 3892) ->(3892, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 3892 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 3892 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 32279 index= 8
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 77713 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 12567 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 10035 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 77665 index= 10
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 91734 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, 72943) ->(72943, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 72943 index= 4
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 22915 index= 8
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 42876 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 72943 index= 4
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 33912 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 66330 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 10035) ->(10035, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 10035 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 10035 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 33098 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 33098) ->(33098, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 40914 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, 77713) ->(77713, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 33098) ->(33098, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 77713 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 33098) ->(33098, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 77713 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 33098) ->(33098, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 33098 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 33098) ->(33098, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 33098 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 33098 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 28094 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 81035 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, 40914) ->(40914, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= - data= 40914 index= 9
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 55189 index= 7
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 33197 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 19209 index= 1
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 68872 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 68872 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= ? data= 53098 index= 8
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 77815 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 83091 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, NULL)
+In informationProcessing: Op= + data= 44201 index= 10
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= + data= 24667 index= 8
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= + data= 66251 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 66251) ->(66251, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= + data= 66251 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 66251) ->(66251, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= ? data= 66251 index= 5
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 66251) ->(66251, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= ? data= 39012 index= 0
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 66251) ->(66251, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= ? data= 11188 index= 3
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 66251) ->(66251, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= % data= 77815 index= 6
+op is an unrecognized operation: %
+In informationProcessing: Op= ? data= 77815 index= 6
+*** Printing hash table after a valid operation 
+*** Printing hash table *** 
+hashTable[0]:(-9999, 33197) ->(33197, 39012) ->(39012, 81035) ->(81035, NULL)
+hashTable[1]:(-9999, 19209) ->(19209, NULL)
+hashTable[2]:(-9999, NULL)
+hashTable[3]:(-9999, 12567) ->(12567, 33912) ->(33912, 66330) ->(66330, 68872) ->(68872, 77448) ->(77448, 91734) ->(91734, NULL)
+hashTable[4]:(-9999, 53221) ->(53221, NULL)
+hashTable[5]:(-9999, 66251) ->(66251, 83091) ->(83091, NULL)
+hashTable[6]:(-9999, 11903) ->(11903, 42876) ->(42876, 77815) ->(77815, NULL)
+hashTable[7]:(-9999, 55189) ->(55189, 56193) ->(56193, 66814) ->(66814, NULL)
+hashTable[8]:(-9999, 22915) ->(22915, 24667) ->(24667, 32279) ->(32279, NULL)
+hashTable[9]:(-9999, 28094) ->(28094, NULL)
+hashTable[10]:(-9999, 44201) ->(44201, NULL)
+In informationProcessing: Op= # data= 83091 index= 5
+op is an unrecognized operation: #
