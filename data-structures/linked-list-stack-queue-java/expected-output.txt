@@ -1,0 +1,18 @@
+delete a node from Q, newNode's data is 52
+delete a node from Q, newNode's data is 69
+delete a node from Q, newNode's data is 495
+delete a node from Q, newNode's data is 666
+delete a node from Q, newNode's data is 16
+delete a node from Q, newNode's data is 12
+delete a node from Q, newNode's data is 588
+delete a node from Q, newNode's data is 95
+ (-9999,12) 
+ (12,16) 
+ (16,52) 
+ (52,69) 
+ (69,95) 
+ (95,495) 
+ (495,588) 
+ (588,666) 
+ (666,null) 
+NULL
