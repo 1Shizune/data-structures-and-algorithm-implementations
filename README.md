@@ -5,13 +5,10 @@ The projects focus on fundamental data structures, graph theory, optimization te
 
 Technologies Used:
 
-C++
-
-Java
-
-Object-Oriented Design
-
-Custom Data Structure Implementations
+C++,
+ Java,
+ Object-Oriented Design,
+ Custom Data Structure Implementations
 
 
 
